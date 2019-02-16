@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	width: 100%;
+	height: 100%;
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 20px;
+}
+.convertaCelsius{
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	font-size: 21px;
+	font-weight: 600;
+	font-family: sans-serif;
+}
+/* os dois 1 inputs*/
+#celsius{
+float: left;
+margin-left: 34%;
+margin-right: 30px;
+}
+#fahrenheit{
+	
+	margin-left: 25px;
+	margin-bottom: 25px;
+	
+
+}
+/* os dois 2 inputs */
+#fahrenheit2{
+	
+float: left;
+margin-left: 34%;
+margin-right: 30px;
+	
+
+}
+#celsius2{
+	
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
